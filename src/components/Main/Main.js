@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import Results from '../Results/Results'
 
 class Main extends Component {
   constructor() {
@@ -9,7 +10,10 @@ class Main extends Component {
   }
   render() {
     return (
-      <h2>Main Component</h2>
+      <div>
+        <h2>Main Component</h2>
+        <Results />
+      </div>
     )
   }
 }
