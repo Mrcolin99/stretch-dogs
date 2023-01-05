@@ -41,7 +41,7 @@ class Questionnaire extends Component {
 
           <div className="slider-labels">
             <p>Tiny</p>
-            <p>Large</p>
+            <p>Big Thicc Boii</p>
           </div>
         </div>
 
