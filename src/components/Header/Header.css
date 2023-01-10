@@ -40,12 +40,6 @@ img {
   height: 6%;
 }
 
-img:hover {
-  width: 6.5%;
-  width: 6.5%;
-  transition: 0.2s;
-  }
-
 .header__link {
   display: flex;
   margin: 3%;
